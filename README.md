@@ -2,7 +2,7 @@
 This is the seven set-up experiment for HPML - Hybrid Partition for Multi-Label Classification.
 
 ## Enviroments to run experiments
-Click [here]() to download 
+Click here to download 
 
 ### Conda
 You can run this experiment in Conda Environment. The name is "AmbienteTeste". To be able to use this env you must first install conda in your computer or server and then install the environment using the following command: *conda env create --file AmbienteTeste.yaml*
@@ -12,25 +12,25 @@ You can also run this experiment in a singularity container. Download the recipe
 
 ## Code
 
-### Step 1: 
+### Step 1
 
 Pre-processing
 
 10-Fold Cross Validation: https://github.com/cissagatto/CrossValidationMultiLabel
 
-### Step 2 and 3:
+### Step 2 and 3
 
 Modeling the correlations between the labels and choosing the best dendrogram to generate the hybrid partitions.
 
 https://github.com/cissagatto/jaccard
 
-### Step 4 and 5:
+### Step 4 and 5
 
 Building and validating hybrid partitions with the silhouette coefficient
 
 https://github.com/cissagatto/Best-Partition-Silhouette
 
-### Step 6 and 7:
+### Step 6 and 7
 
 Building and testing the best chosen hybrid partition
 
