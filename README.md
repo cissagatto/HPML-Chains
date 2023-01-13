@@ -47,8 +47,8 @@ https://github.com/cissagatto/Local-ECC
 ## Download Results
 - [Original Multi-Label Datasets](https://cometa.ujaen.es/datasets/)
 - [10-Fold Cross Validation Multi-Label Datasets](https://www.4shared.com/s/dYpGZWzjQ)
-- Jaccard Best Dendrograms:  
-- Best Partitions from Silhouette Coefficient
+- [Jaccard Best Dendrograms](https://www.4shared.com/folder/wVsBXIT5/1-Jaccard-Best-Dendrograms.html)
+- [Best Partitions from Silhouette Coefficient](https://www.4shared.com/folder/ucwVLJIg/2-Best-Partitions-Silhouette.html)
 - Test
 
 ## Metodology Flow
