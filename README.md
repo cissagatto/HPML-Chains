@@ -24,13 +24,13 @@ Modeling the correlations between the labels and choosing the best dendrogram to
 
 https://github.com/cissagatto/jaccard
 
-### Step 4 and 5
+### Step 4, 5 and 6
 
-Building and validating hybrid partitions with the silhouette coefficient
+Building and validating all generated hybrid partitions with the silhouette coefficient. The hybrid partition with the highiest silhouet coefficient is chosen to be tested.
 
 https://github.com/cissagatto/Best-Partition-Silhouette
 
-### Step 6 and 7
+### Step 7
 
 Building and testing the best chosen hybrid partition
 
