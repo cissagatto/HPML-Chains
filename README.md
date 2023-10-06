@@ -1,4 +1,4 @@
-# HPML-4
+# HPML Experiment 4
 This is the 4 experiment for HPML - Hybrid Partition for Multi-Label Classification.
 
 ## Enviroments to run experiments
