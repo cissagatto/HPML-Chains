@@ -1,5 +1,5 @@
-# HPML-Set-Up-7
-This is the seven set-up experiment for HPML - Hybrid Partition for Multi-Label Classification.
+# HPML-4
+This is the 4 experiment for HPML - Hybrid Partition for Multi-Label Classification.
 
 ## Enviroments to run experiments
 Click here to download 
@@ -38,10 +38,10 @@ https://github.com/cissagatto/Chains-Hybrid-Partition/blob/main/README.md
 
 
 ## Global Partitions
-https://github.com/cissagatto/Global-ECC
+
 
 ## Local Partitions
-https://github.com/cissagatto/Local-ECC
+
 
 
 ## Download Results
@@ -64,7 +64,5 @@ This study is financed in part by the Conselho Nacional de Desenvolvimento Cient
 ## Report Error
 Please contact me: elainececiliagatto@gmail.com
 
-## HPML Schematic
-<img src="https://github.com/cissagatto/HPML-Set-Up-7/blob/main/HPML-ALL-VERSIONS.png" width="700">
 
 # Thanks
