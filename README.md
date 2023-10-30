@@ -14,34 +14,27 @@ You can also run this experiment in a singularity container. Download the recipe
 
 ### Step 1
 
-Pre-processing
-
-10-Fold Cross Validation: https://github.com/cissagatto/CrossValidationMultiLabel
+Pre-processing. [10-Fold Cross Validation](https://github.com/cissagatto/CrossValidationMultiLabel)
 
 ### Step 2 and 3
 
-Modeling the correlations between the labels and choosing the best dendrogram to generate the hybrid partitions.
-
-https://github.com/cissagatto/jaccard
+Modeling the correlations between the labels and choosing the best dendrogram to generate the hybrid partitions. [Code](https://github.com/cissagatto/jaccard)
 
 ### Step 4, 5 and 6
 
-Building and validating all generated hybrid partitions with the silhouette coefficient. The hybrid partition with the highiest silhouet coefficient is chosen to be tested.
+Building and validating all generated hybrid partitions with the silhouette coefficient. The hybrid partition with the highiest silhouet coefficient is chosen to be tested. [Code](https://github.com/cissagatto/Best-Partition-Silhouette)
 
-https://github.com/cissagatto/Best-Partition-Silhouette
 
 ### Step 7
 
-Building and testing the best chosen hybrid partition
-
-https://github.com/cissagatto/Chains-Hybrid-Partition/blob/main/README.md
+Building and testing the best chosen hybrid partition. [Code](https://github.com/cissagatto/Chains-Hybrid-Partition/blob/main/README.md)
 
 
 ## Global Partitions
-
+[Code](https://github.com/cissagatto/Global-Partitions)
 
 ## Local Partitions
-
+[Code](https://github.com/cissagatto/Local-Partitions)
 
 
 ## Download Results
