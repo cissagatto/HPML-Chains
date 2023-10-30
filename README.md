@@ -27,8 +27,15 @@ Building and validating all generated hybrid partitions with the silhouette coef
 
 ### Step 7
 
-Building and testing the best chosen hybrid partition. [Code](https://github.com/cissagatto/Chains-Hybrid-Partition/blob/main/README.md)
+Building and testing the best chosen hybrid partition.
 
+[HPML.D.padrao](https://github.com/cissagatto/HPML.D.padrao)
+
+[HPML.D.CI](https://github.com/cissagatto/HPML.D.CI)
+
+[HPML.D.CE](https://github.com/cissagatto/HPML.D.CE)
+
+[HPML.D.CEI](https://github.com/cissagatto/HPML.D.CEI)
 
 ## Global Partitions
 [Code](https://github.com/cissagatto/Global-Partitions)
