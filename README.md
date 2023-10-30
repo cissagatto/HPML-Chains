@@ -1,5 +1,5 @@
 # HPML Experiment 4: Chains
-This is the 4º experiment for HPML
+This is the 4º experiment for HPML which is based on Classifier Chains.
 
 ## Enviroments to run experiments
 Click here to download 
@@ -50,8 +50,6 @@ Building and testing the best chosen hybrid partition.
 - [Jaccard Best Dendrograms](https://www.4shared.com/folder/wVsBXIT5/1-Jaccard-Best-Dendrograms.html)
 - [Best Partitions from Silhouette Coefficient](https://www.4shared.com/folder/ucwVLJIg/2-Best-Partitions-Silhouette.html)
 - Test
-
-## Metodology Flow
 
 
 ## Acknowledgment
