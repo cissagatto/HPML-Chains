@@ -29,7 +29,7 @@ Building and validating all generated hybrid partitions with the silhouette coef
 
 Building and testing the best chosen hybrid partition.
 
-[HPML.D.padrao](https://github.com/cissagatto/HPML.D.padrao)
+[HPML.D](https://github.com/cissagatto/HPML.D.padrao)
 
 [HPML.D.CI](https://github.com/cissagatto/HPML.D.CI)
 
